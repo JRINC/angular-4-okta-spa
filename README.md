@@ -1,2 +1,2 @@
 # angular-4-okta-spa
-An Angular 4 demo with okta 
+This is a code sample integrating Angular 4 SPA with Okta. The backend is an ASP.NET Web API 2.
